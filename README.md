@@ -19,10 +19,14 @@ Entered Text: I came, I saw, I conquered.
 Encrypted Text: V pnzr, V fnj, V pbadhrerq.
  
 --------------------------------
-Have A Nice Day
 
 ```
 This example encrypts the text "Experience is the teacher of all things." by shifting it three units clockwise.
 ```bash
 $ echo "Experience is the teacher of all things." | ./caesar.sh 3
-Ohzobsoxmo sc dro dokmrob yp kvv drsxqc.
+--------------------------------
+
+Entered Text: Experience is the teacher of all things.
+Encrypted Text: Hashulhqfh lv wkh whdfkhu ri doo wklqjv.
+
+--------------------------------
