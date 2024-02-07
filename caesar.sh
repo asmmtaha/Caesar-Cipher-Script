@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Writer: Asım Taha Şanlı <tahasanli76@gmail.com>
+# Author: Asım Taha Şanlı 
+# Email: tahasanli76@gmail.com
 
 # Caesar Cipher Encryption Function
 caesar_encrypt() {
