@@ -59,6 +59,5 @@ do
   echo "Encrypted Text: $encrypted_text"
   echo " "
   echo "--------------------------------"
-  echo "Have A Nice Day"
 done
 
