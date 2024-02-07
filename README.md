@@ -13,5 +13,3 @@ usage: caesar.sh [rotation]
 ```bash
 $ echo "I came, I saw, I conquered." | ./caesar.sh
 V pnzr, V fnj, V pbadhrerq.
-
-
