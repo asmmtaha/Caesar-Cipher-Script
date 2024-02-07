@@ -13,3 +13,6 @@ usage: caesar.sh [rotation]
 ```bash
 $ echo "I came, I saw, I conquered." | ./caesar.sh
 V pnzr, V fnj, V pbadhrerq.
+
+$ echo "Experience is the teacher of all things." | ./caesar.sh 10
+Ohzobsoxmo sc dro dokmrob yp kvv drsxqc.
