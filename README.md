@@ -15,9 +15,9 @@ usage: caesar.sh [rotation]
 $ echo "I came, I saw, I conquered." | ./caesar.sh
 --------------------------------
 
-Girdiğiniz Metin: I came, I saw, I conquered.
-Şifrelenmiş Metin: V pnzr, V fnj, V pbadhrerq.
-
+Entered Text: I came, I saw, I conquered.
+Encrypted Text: V pnzr, V fnj, V pbadhrerq.
+ 
 --------------------------------
 Have A Nice Day
 
