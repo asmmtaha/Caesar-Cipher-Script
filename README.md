@@ -9,10 +9,20 @@ The script shifts the text by the specified rotation amount (clockwise). If no r
 ./caesar.sh -h
 usage: caesar.sh [rotation]
 ```
-## Example Usage 
+
+## Example Usages 
 ```bash
 $ echo "I came, I saw, I conquered." | ./caesar.sh
-V pnzr, V fnj, V pbadhrerq.
+--------------------------------
 
-$ echo "Experience is the teacher of all things." | ./caesar.sh 10
+Girdiğiniz Metin: I came, I saw, I conquered.
+Şifrelenmiş Metin: V pnzr, V fnj, V pbadhrerq.
+
+--------------------------------
+Have A Nice Day
+
+```
+This example encrypts the text "Experience is the teacher of all things." by shifting it three units clockwise.
+```bash
+$ echo "Experience is the teacher of all things." | ./caesar.sh 3
 Ohzobsoxmo sc dro dokmrob yp kvv drsxqc.
